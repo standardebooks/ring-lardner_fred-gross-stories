@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Letters */
-
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -30,4 +29,7 @@ p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
+div[epub|type~="z3998:letter"]{
+	margin: 1em 0;
+}
 /* End Letters */
