@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="own-your-own-home.xhtml">
+		<ignore code="t-029">
+			<line>155</line>
+			<reason>Occasionally this narrator starts sentences with lowercase letters. Have to assume it's intentional given the dialect style.</reason>
+		</ignore>
+		<ignore code="y-035">
+			<line>29</line>
+			<reason>This rendering of the initialism is likely intentional given the writing style of the narrator.</reason>
+		</ignore>
+		<ignore code="y-035">
+			<line>42</line>
+			<line>77</line>
+			<reason>This is used in place of the word "oh". Probably intentional given the style of the book.</reason>
+		</ignore>
+	</file>
+	<file path="war-bribes.xhtml">
+		<ignore code="t-029">
+			<line>168</line>
+			<reason>Lower-case in the scans. Likely intentional given dialect style.</reason>
+		</ignore>
+	</file>
+	<file path="the-swift-six.xhtml">
+		<ignore code="t-029">
+			<line>78</line>
+			<reason>Lower-case in the scans. Likely intentional given dialect style.</reason>
+		</ignore>
+	</file>
+	<file path="welcome-to-our-city.xhtml">
+		<ignore code="y-035">
+			<line>114</line>
+			<reason>This is used in place of the word "oh". Probably intentional given the style of the book.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
