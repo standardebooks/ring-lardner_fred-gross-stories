@@ -30,19 +30,21 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Fred Gross Stories</dc:title>
 		<meta property="file-as" refines="#title">Fred Gross Stories</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Epistolary fiction</dc:subject>
+		<dc:subject id="subject-2">Suburban life--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85044453</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
+		<meta property="term" refines="#subject-2">sh2008111428</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A police detective attempts to live the American dream in the Chicago suburbs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>“Well Charley after alls said &amp; did its the only life when you got children &amp; if I was you Id get busy &amp; get in to the game.”</p>
+			<p>Fred A. Gross, assistant chief of detectives for the Chicago Police Department is living the American Dream by leaving his South Side Chicago flat to build a house on greener grass, out in the suburb of Allison, Illinois. Through a series of letters to his brother Charley in New York, Fred offers a revealing glimpse into every conflict and scheme in his new life. Whether he’s dealing with dishonest contractors, feuding with his neighbors, or crafting a get-rich-quick scheme in the wartime stock market, Fred holds nothing back and shares almost every detail of his new life with his brother—no matter how those details make him look.</p>
+			<p><a href="https://standardebooks.org/ebooks/ring-lardner">Ring Lardner</a> originally published the Fred Gross stories in <i>Redbook</i> Magazine from 1915–1917. The first four stories were later compiled in a novelized format under the title <i>Own Your Own Home</i>. As is often true of protagonists in Lardner’s epistolary stories, Fred Gross writes in an uneducated style and fills the page with countless spelling and grammatical errors. Also common with Lardner’s other epistolary protagonists, he is often oblivious to the social happenings around him and blissfully ignorant of the fact that the true recurring villain of his story is not his rude neighbors, not the shady contractors or car salesmen, but rather his own lack of foresight, impulse control, or general social decorum. Though not as well-known as the <a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories">Jack Keefe stories</a>, arguably Lardner’s most famous work, Fred Gross offers readers a similar sort of hapless incompetence as that displayed previously by Keefe, but with a familiar middle-class domestic life as the backdrop instead of professional baseball. Readers experience Fred Gross not as a parody of their celebrity idols, but as a parody of themselves and their own social circles.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Stories 1-4 -->
