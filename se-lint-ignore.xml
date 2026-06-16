@@ -15,12 +15,6 @@
 			<reason>This is used in place of the word "oh". Probably intentional given the style of the book.</reason>
 		</ignore>
 	</file>
-	<file path="war-bribes.xhtml">
-		<ignore code="t-029">
-			<line>168</line>
-			<reason>Lower-case in the scans. Likely intentional given dialect style.</reason>
-		</ignore>
-	</file>
 	<file path="the-swift-six.xhtml">
 		<ignore code="t-029">
 			<line>78</line>
@@ -29,6 +23,12 @@
 		<ignore code="y-032">
 			<line>86</line>
 			<reason>This character isn't supposed to write very well. Apostrophe probably missing on purpose, considering the misspelling.</reason>
+		</ignore>
+	</file>
+	<file path="war-bribes.xhtml">
+		<ignore code="t-029">
+			<line>168</line>
+			<reason>Lower-case in the scans. Likely intentional given dialect style.</reason>
 		</ignore>
 	</file>
 	<file path="welcome-to-our-city.xhtml">
