@@ -26,6 +26,10 @@
 			<line>78</line>
 			<reason>Lower-case in the scans. Likely intentional given dialect style.</reason>
 		</ignore>
+		<ignore code="y-032">
+			<line>86</line>
+			<reason>This character isn't supposed to write very well. Apostrophe probably missing on purpose, considering the misspelling.</reason>
+		</ignore>
 	</file>
 	<file path="welcome-to-our-city.xhtml">
 		<ignore code="y-035">
