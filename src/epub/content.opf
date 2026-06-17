@@ -30,6 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Fred Gross Stories</dc:title>
 		<meta property="file-as" refines="#title">Fred Gross Stories</meta>
+		<meta property="dcterms:alternative" refines="#title">Own Your Own Home</meta>
 		<dc:subject id="subject-1">Epistolary fiction</dc:subject>
 		<dc:subject id="subject-2">Suburban life--Fiction</dc:subject>
 		<dc:subject id="subject-3">Humorous stories</dc:subject>
