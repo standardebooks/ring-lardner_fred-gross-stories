@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-06-17T21:04:44Z</dc:date>
+		<meta property="dcterms:modified">2026-06-17T21:04:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,8 +53,10 @@
 		<dc:description id="description">A police detective attempts to live the American dream in the Chicago suburbs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;“Well Charley after alls said &amp;amp; did its the only life when you got children &amp;amp; if I was you Id get busy &amp;amp; get in to the game.”&lt;/p&gt;
-			&lt;p&gt;Fred A. Gross, assistant chief of detectives for the Chicago Police Department is living the American Dream by leaving his South Side Chicago flat to build a house on greener grass, out in the suburb of Allison, Illinois. Through a series of letters to his brother Charley in New York, Fred offers a revealing glimpse into every conflict and scheme in his new life. Whether he’s dealing with dishonest contractors, feuding with his neighbors, or crafting a get-rich-quick scheme in the wartime stock market, Fred holds nothing back and shares almost every detail of his new life with his brother—no matter how those details make him look.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; originally published the Fred Gross stories in &lt;i&gt;The Red Book Magazine&lt;/i&gt; from 1915–1917. The first four stories were later compiled in a novelized format under the title &lt;i&gt;Own Your Own Home&lt;/i&gt;. As is often true of protagonists in Lardner’s epistolary stories, Fred Gross writes in an uneducated style and fills the page with countless spelling and grammatical errors. Also common with Lardner’s other epistolary protagonists, he is often oblivious to the social happenings around him and blissfully ignorant of the fact that the true recurring villain of his story is not his rude neighbors, not the shady contractors or car salesmen, but rather his own lack of foresight, impulse control, or general social decorum. Though not as well-known as the &lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;&lt;i&gt;Jack Keefe Stories&lt;/i&gt;&lt;/a&gt;, arguably Lardner’s most famous work, Fred Gross offers readers a similar sort of hapless incompetence as that displayed previously by Keefe, but with a familiar middle-class domestic life as the backdrop instead of professional baseball. Readers experience Fred Gross not as a parody of their celebrity idols, but as a parody of themselves and their own social circles.&lt;/p&gt;
+			&lt;p&gt;Fred A. Gross, assistant chief of detectives for the Chicago Police Department, is living the American Dream by leaving his South Side Chicago flat to build a house on greener pastures in the suburb of Allison, Illinois. Through a series of letters to his brother Charley in New York, Fred offers a revealing glimpse into the conflicts and schemes of his new life. Whether he’s dealing with dishonest contractors, feuding with his neighbors, or crafting a get-rich-quick scheme in the wartime stock market, Fred holds nothing back and shares almost every detail of his new life with his brother—no matter how those details make him look.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; originally published the Fred Gross stories in &lt;i&gt;The Red Book Magazine&lt;/i&gt; from 1915–1917. The first four stories were later novelized under the title &lt;i&gt;Own Your Own Home&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;As is often true of protagonists in Lardner’s epistolary stories, Fred Gross writes in an uneducated style and fills the page with countless spelling and grammatical errors. Also in common with Lardner’s other epistolary protagonists, he’s often oblivious to the social happenings around him, remaining blissfully ignorant of the fact that the true villain of his story isn’t his rude neighbors, nor the shady contractors or car salesmen, but rather his own lack of foresight, impulse control, and general social decorum.&lt;/p&gt;
+			&lt;p&gt;&lt;Though not as well-known as the &lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;&lt;i&gt;Jack Keefe Stories&lt;/i&gt;&lt;/a&gt;, Fred Gross has a similar sort of hapless incompetence as Keefe, but with middle-class domestic life as the backdrop instead of professional baseball. Readers experience Fred Gross not as a parody of their celebrity idols, but as a parody of themselves and their own social circles.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Stories 1-4 -->
@@ -67,8 +69,8 @@
 		<!-- Story 7: Page 35 -->
 		<dc:source>https://archive.org/details/sim_redbook_1917-05_29</dc:source>
 		<meta property="se:production-notes">Due to the dialect style of the book, minimal spelling modernizations were performed as it's hard to know what's simply dated, and what's intentionally wrong.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">56426</meta>
+		<meta property="se:reading-ease.flesch">77.0</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_fred-gross-stories</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
@@ -98,6 +100,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
